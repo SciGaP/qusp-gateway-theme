@@ -33,11 +33,10 @@
       </p>
       <br>
       </br>
-      <div class="col-md-offset-5 col-md-8 scigap-info">
-      <p align="center">
+      <div class="col-md-offset-5 col-md-4>
       <a href="pages/about" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus" class="button-sra">Cite Us</a>&nbsp; &nbsp; &nbsp;<a href="pages/contact" class="button-sra">Contact</a>
       </p>
-      /div>
+      </div>
       <!--
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
