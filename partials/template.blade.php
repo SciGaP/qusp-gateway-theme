@@ -1,5 +1,5 @@
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="200%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="250%"/>
   <div class="container">
   </div>
   <!--
