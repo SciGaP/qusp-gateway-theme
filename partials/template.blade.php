@@ -28,7 +28,7 @@
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
-      <p style="font-size:18px; margin-top:20px; font-family:verdana">
+      <p  align="center" style="font-size:18px; margin-top:20px; font-family:verdana">
         Welcome to Colorado Mines University Science Gateway
       </p>
       <br>
