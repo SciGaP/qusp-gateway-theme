@@ -1,8 +1,6 @@
 body{
 	background: #fff !important;
-    width: 100%;
-    background: url(../img/csbg-banner.png) no-repeat center center;
-    background-size: cover;
+
 }
 
 .navbar{
@@ -78,7 +76,11 @@ body{
   background-size:cover;
 	height:235px;
 } */
-
+.hero-unit {
+    width: 100%;
+    background: url(../img/csbg-banner.png) no-repeat center center;
+    background-size: cover;
+}
 .hero-unit h1 {
     color: #FFFFFF;
     font-size: 60px;
