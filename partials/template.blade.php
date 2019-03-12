@@ -1,6 +1,6 @@
 <div>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="200%"/>
-  <div class="col-md-12 hero-unit">
+  <div class="col-md-12 hero-unit container">
   </div>
   <!--
     <h1>Hero Image</h1>
