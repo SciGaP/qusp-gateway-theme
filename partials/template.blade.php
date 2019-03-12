@@ -28,8 +28,13 @@
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
-      <p style="font-size:18px; margin-top:20px;">
+      <p style="font-size:18px; margin-top:20px; font-family:verdana">
         Welcome to Colorado Mines University Science Gateway
+      </p>
+      <br>
+      </br>
+      <p align="left">
+      <a href="pages/about.blade" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus.blade.php" class="button-sra">Cite Us</a>
       </p>
       <!--
       <div class="col-md-6 credits">
