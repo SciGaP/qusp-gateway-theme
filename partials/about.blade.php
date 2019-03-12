@@ -3,23 +3,39 @@
     <div class="text-center">
       <h2 class="text-center">About</h2>
       <hr class="separation-line blue-bg"/>
-
-      <p style="font-size:18px; margin-top:20px;" align="left">
-      The major focus of our group is the design and development of novel tools for the structure-based modeling and analysis of biological networks.
-      Computational Systems Biology can be considered as a complex platform that integrates many algorithms from different research areas such as Structural Bioinformatics, Functional Genomics, Cheminformatics and Pharmacogenomics.
-      We develop computational tools to study the evolution and organization of pathways into biological networks with the primary application in modern drug discovery and design.
-      Biological pathways, which are the common units of biological networks, can be broadly defined as the series of interactions between molecular entities such as proteins, nucleic acids and small organic molecules that trigger a variety of cellular responses.
-      Their malfunction can be often directly linked to many disease states.
-      </p>
-
-      <p style="font-size:18px; margin-top:20px;" align="left">
-      Our ambitious goal is to reveal the underlying principles of biological network evolution, organization and dynamics.
-      By doing so, we hope to be able to predict the phenotypic outcome of biological network perturbations.
-      </p>
-
-      <p style="font-size:18px; margin-top:20px;" align="left">
-      Currently we offer web services to model protein structures and infer their molecular functions. More tools will become available in the near future.
-      </p>
+      <div class="col-md-6 credits">
+        <div class="thumbnail" style="border:none">
+          <img class="img-responsive" src="assets/scigap-header-logo.png" alt="SciGaP">
+          <div class="caption">
+            <p>
+              SciGaP is a hosted service with a public API that science gateways can use to manage
+              applications and workflows running on remote supercomputers, as well as other services. Gateway
+              developers can thus concentrate their efforts on building their scientific communities and not
+              worry about operations.
+            </p>
+            <p>
+              Science Gateway Platform as a Service (SciGaP) provides application programmer interfaces (APIs)
+              to hosted generic infrastructure services that can be used by domain science communities to
+              create Science Gateways.
+            </p>
+            <p><a href="http://scigap.org/"
+              target="_blank">Learn more <span class="glyphicon glyphicon-new-window"></span></a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 credits">
+        <div class="thumbnail" style="border:none">
+          <img src="assets/powered-by-airavata-transparent.png" width="260px" alt="Apache Airavata">
+          <div class="caption">
+            <p>
+              Apache Airavata is a software framework which is dominantly used to build Web-based science
+              gateways and assist to compose, manage, execute and monitor large scale applications and
+              workflows on distributed computing resources such as local clusters, supercomputers, national
+              grids, academic and commercial clouds. Airavata mainly supports long running applications and
+              workflows on distributed computational resources.
+            </p>
+            <p><a href="http://airavata.apache.org/" target="_blank">Learn more <span
+              class="glyphicon glyphicon-new-window"></span></a></p>
     </div>
   </div>  
 </div>
