@@ -29,8 +29,9 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:14px; margin-top:20px;">
-        Welcome to Louisiana State University Science Gateway
+        Welcome to Colorado Mines University Science Gateway
       </p>
+      <!--
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
           <img class="img-responsive" src="assets/scigap-header-logo.png" alt="SciGaP">
@@ -64,6 +65,7 @@
             </p>
             <p><a href="http://airavata.apache.org/" target="_blank">Learn more <span
               class="glyphicon glyphicon-new-window"></span></a></p>
+              -->
           </div>
         </div>
       </div>
