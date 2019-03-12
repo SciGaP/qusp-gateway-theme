@@ -4,7 +4,7 @@
       <hr class="separation-line blue-bg"/>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
-          <img class="img-responsive" src="assets/scigap-header-logo.png" alt="SciGaP">
+          <img class="img-responsive" src="assets/img/scigap-header-logo.png" alt="SciGaP">
           <div class="caption">
             <p>
               SciGaP is a hosted service with a public API that science gateways can use to manage
@@ -24,7 +24,7 @@
       </div>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
-          <img src="assets/powered-by-airavata-transparent.png" width="260px" alt="Apache Airavata">
+          <img src="assets/img/airavata-logo.png" width="260px" alt="Apache Airavata">
           <div class="caption">
             <p>
               Apache Airavata is a software framework which is dominantly used to build Web-based science
