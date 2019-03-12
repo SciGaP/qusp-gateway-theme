@@ -34,7 +34,7 @@
       <br>
       </br>
       <p align="left">
-      <a href="pages/about.blade" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus.blade.php" class="button-sra">Cite Us</a>
+      <a href="pages/about" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus" class="button-sra">Cite Us</a>&nbsp; &nbsp; &nbsp;<a href="pages/contact" class="button-sra">Contact</a>
       </p>
       <!--
       <div class="col-md-6 credits">
