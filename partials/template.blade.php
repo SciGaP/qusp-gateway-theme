@@ -33,7 +33,8 @@
       </p>
       <br>
       </br>
-      <div class="col-md-offset-5 col-md-4>
+      <div class="col-md-offset-5 col-md-8 scigap-info">
+      <p align="center">
       <a href="pages/about" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus" class="button-sra">Cite Us</a>&nbsp; &nbsp; &nbsp;<a href="pages/contact" class="button-sra">Contact</a>
       </p>
       </div>
