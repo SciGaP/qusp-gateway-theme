@@ -10,7 +10,7 @@
 <div class="col-md-12 breathing-space">
   <div class="row">
     <div class="col-md-offset-5 col-md-2">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="100%"/>
+      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="150%"/>
       <hr/>
       <a href="{{ URL::to('/') }}/login">
         <h4>Login</h4>
@@ -21,14 +21,14 @@
       </a>
       <hr/>
     </div>
-    <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>LSU Gateway</h1>
+    <div class="col-md-offset-3 col-md-8 scigap-info">
+      <!--<h1>LSU Gateway</h1>
       <p style="color:#cccccc;">
-      <h2>Welcome!</h2>
+      <h2>Welcome!</h2> -->
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
-      <p style="font-size:14px; margin-top:20px;">
+      <p style="font-size:18px; margin-top:20px;">
         Welcome to Colorado Mines University Science Gateway
       </p>
       <!--
