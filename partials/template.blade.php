@@ -33,7 +33,7 @@
       </p>
       <br>
       </br>
-      <p align="left">
+      <p align="justify">
       <a href="pages/about" class="button-sra">About</a>&nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra"">Documentation</a>&nbsp; &nbsp; &nbsp;<a href="pages/citeus" class="button-sra">Cite Us</a>&nbsp; &nbsp; &nbsp;<a href="pages/contact" class="button-sra">Contact</a>
       </p>
       <!--
