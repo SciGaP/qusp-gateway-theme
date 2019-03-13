@@ -31,14 +31,14 @@
       <hr/>-->
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p  align="center" style="font-size:18px; margin-top:20px; font-family:verdana">
-        Welcome to Colorado Mines University Science Gateway
+        Welcome to Colorado School of Mines Science Gateway
       </p>
       <br>
       </br>
       <!-- <div class="col-md-offset-5 col-md-8 scigap-info">-->
-      <p align="center">
-      <a href="pages/about" class="button-sra" style="margin-right: 10px">About</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="pages/documentation" class="button-sra style="margin-right: 10px"">Documentation</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <a href="pages/citeus" class="button-sra" style="margin-right: 10px">Cite Us</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="pages/contact" class="button-sra">Contact</a>
+      <p>
+      <a href="pages/about" class="button-sra" style="margin-right: 50px">About</a><a href="pages/documentation" class="button-sra" style="margin-right: 50px">Documentation</a>
+      <a href="pages/citeus" class="button-sra" style="margin-right: 50px">Cite Us</a><a href="pages/contact" class="button-sra">Contact</a>
       </p>
       </div>
           </div>
