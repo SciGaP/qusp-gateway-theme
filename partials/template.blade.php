@@ -1,7 +1,9 @@
+<!--
 <div>
   <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="250%"/>
   <div class="container">
-  </div>
+  </div>-->
+  <div class="col-md-12 hero-unit" style="height: 300px;">
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
