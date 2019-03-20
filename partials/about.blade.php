@@ -4,7 +4,7 @@
       <hr class="separation-line blue-bg"/>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
-          <img class="img-responsive" src=""{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/scigap-header-logo.png" alt="SciGaP">
+          <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/scigap-header-logo.png" alt="SciGaP">
           <div class="caption">
             <p>
               SciGaP is a hosted service with a public API that science gateways can use to manage
