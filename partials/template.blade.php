@@ -23,7 +23,6 @@
       <a href="{{ URL::to('/') }}/create">
         <h4>Register</h4>
       </a>
-      <hr/>
     </div>
     <div class="col-md-offset-3 col-md-8 scigap-info">
       <!-- <div class="col-md-offset-5 col-md-8 scigap-info">
