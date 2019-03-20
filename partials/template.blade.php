@@ -11,7 +11,7 @@
     <p><a class="btn btn-primary btn-large">Learn more</a></p>
     -->
 </div>
-<div class="col-md-12 breathing-space">
+<div class="col-md-12"> <!-- breathing-space">-->
   <div class="row">
     <div class="col-md-offset-5 col-md-2">
       <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="150%"/>
