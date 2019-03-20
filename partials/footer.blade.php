@@ -11,7 +11,7 @@
     </div>
         <div class="col-md-2">
         <a href="pages/documentation" target="_blank">
-                <img width="30%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/document.png">
+                <img width="20%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/document.png">
                 </a>
         </div>
     <div class="col-md-2">
@@ -21,7 +21,7 @@
     </div>
         <div class="col-md-2">
                 <a href="pages/contact" target="_blank">
-                <img width="5%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/contact.png">
+                <img width="20%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/contact.png">
                 </a>
         </div>
 </div>
