@@ -16,12 +16,14 @@
     <div class="col-md-offset-5 col-md-2">
       <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="100%"/>
       <hr/>
+      <!--
       <a href="{{ URL::to('/') }}/login">
         <h4>Login</h4>
       </a>
       <hr/>
       <a href="{{ URL::to('/') }}/create">
         <h4>Register</h4>
+        -->
       </a>
     </div>
     <div class="col-md-offset-3 col-md-8 scigap-info">
