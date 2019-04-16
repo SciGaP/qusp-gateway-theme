@@ -2,7 +2,7 @@
 <hr class="separation-line blue-bg"/>
 <div class="row new-collaborators text-center">
 <!--<div class="col-md-12 new-collaborators text-center">-->
-    <div class="col-md-offset-2 col-xs-2">
+    <div class="col-xs-offset-2 col-xs-2">
         <a href="/pages/about" target="_blank">
         <img width="40%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/people.png"/>
         </a>
