@@ -65,7 +65,7 @@ body{
 	display: none;
 }
 */
-.panel-body > .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
+.panel-body > .queue-block, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
     display: none;
 }
 
