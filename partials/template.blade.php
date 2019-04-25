@@ -1,6 +1,6 @@
 <!--
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="200%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="100%"/>
   <div class="container">
   </div>-->
   <div class="col-md-12 hero-unit" style="height: 300px;">
