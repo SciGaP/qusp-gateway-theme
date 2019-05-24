@@ -1,5 +1,5 @@
 <div class="container">
-  <h2 class="text-center">Training and Documentation</h2>
+  <h2 class="text-center">Documentation</h2>
     <hr class="separation-line blue-bg"/>
 
     <h4>Mines Science Gateway User Manual</h4>
