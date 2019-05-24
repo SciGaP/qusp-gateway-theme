@@ -11,7 +11,7 @@
 
         <p style="font-size:18px; margin-top:20px;" align="left">
         Please cite : "M. L. Wall and L. D. Carr, New J. Phys. 14, 125015 (2012)" and "D. Jaschke, M. L. Wall, and L. D. Carr, Computer Physics Communications 225, 59–91 (2018)" if your publication involves OSMPS.
-        <br>
+        <br></br>
         <h4 class="text-left">Acknowledgements</h4>
         </p>
         <p style="font-size:18px; margin-top:20px;" align="left">
