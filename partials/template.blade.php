@@ -1,6 +1,6 @@
 <!--
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="200%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/QuSP.png" width="200%"/>
   <div class="container">
   </div>-->
   <div class="col-md-12 hero-unit" style="height: 300px;">
@@ -14,7 +14,7 @@
 <div class="col-md-12"> <!-- breathing-space">-->
   <div class="row">
     <div class="col-xs-offset-2 col-xs-8">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/QuSP.png" width="100%"/>
+      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/mines-logo.png" width="100%"/>
       <hr/>
       <!--
       <a href="{{ URL::to('/') }}/login">
