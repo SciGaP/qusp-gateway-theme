@@ -13,8 +13,9 @@
         lcarr@mines.edu
       </p>
 
-      <p
-      For more information: <a href="https://people.mines.edu/lcarr/" class="button-sra" style="margin-right: 30px">PROF. LINCOLN D. CARR Profile</a>
+      <pstyle="font-size:18px; margin-top:20px;" align="left">
+      For more information: <a href="https://people.mines.edu/lcarr/">PROF. LINCOLN D. CARR Profile</a>
+      </P>
 
     </div>
   </div>  
