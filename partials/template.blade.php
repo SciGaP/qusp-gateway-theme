@@ -29,7 +29,7 @@
     <div class="col-md-offset-3 col-md-8 scigap-info">
       <!-- <div class="col-md-offset-5 col-md-8 scigap-info">
       <p>
-      <a href="pages/about" class="button-sra" style="margin-right: 30px">About</a><a href="pages/documentation" class="button-sra" style="margin-right: 30px">Documentation</a>
+      <a href="https://people.mines.edu/lcarr/team/" class="button-sra" style="margin-right: 30px">About</a><a href="https://openmps.sourceforge.io" class="button-sra" style="margin-right: 30px">Documentation</a>
       <a href="pages/citeus" class="button-sra" style="margin-right: 30px">Cite Us</a><a href="pages/contact" class="button-sra" style="margin-right: 30px">Contact</a>
       </p>
       -->
